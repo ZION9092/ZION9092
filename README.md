@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZION9092
 - 👀 I’m interested in Mobile App Dvelopment[Flutter]
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m a flutter Developer
 - 💞️ I’m looking to collaborate on any App Dvevelopment Project
 - 📫 How to reach me 08101254991
 - 😄 Pronouns: He, Him
